@@ -38,19 +38,17 @@ src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 💪 正在学习: 
 &emsp;&emsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-&emsp;&emsp;
 ![Assembly](https://img.shields.io/badge/%E6%B1%87%E7%BC%96-Assembly-orange)
 ![Reverse](https://img.shields.io/badge/%E9%80%86%E5%90%91-Reverse-red)
-🧠 计划学习:
 
+🧠 计划学习:
 &emsp;&emsp;
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Kernel](https://img.shields.io/badge/%E5%86%85%E6%A0%B8-Kernel-blue)
+![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![Kernel](https://img.shields.io/badge/%E5%86%85%E6%A0%B8-Kernel-blue)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 
 
 🧰 常用的工具:
