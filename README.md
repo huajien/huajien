@@ -15,14 +15,14 @@
 
 <div align="center">
 <!-- gitee徽标 -->
-  <a href="https://huajien.gitee.io/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
+  <a href="https://huajien.gitee.io/"><img src="https://img.shields.io/badge/website-个人网站-blue"></a>&emsp;
   <!-- CSDN徽标 -->
-  <a href="https://blog.csdn.net/qq_46108521"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
+  <a href="https://blog.csdn.net/qq_46108521"><img src="https://img.shields.io/badge/CSDN-博客-c32136"></a>&emsp;
   <!-- B站徽标 -->
   <a href="https://space.bilibili.com/452307664"><img 
-src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+src="https://img.shields.io/badge/bilibili-B站-ff69b4"></a>&emsp;
   <!-- 知乎徽标 -->   
-  <a href="https://www.zhihu.com/people/hua-ji-93-94"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+  <a href="https://www.zhihu.com/people/hua-ji-93-94"><img src="https://img.shields.io/badge/zhihu-知乎-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=huajien" /></div>
 
@@ -38,14 +38,15 @@ src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 💪 正在学习: 
 &emsp;&emsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=white)
+![GO](https://img.shields.io/badge/-GO-00599C?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![Assembly](https://img.shields.io/badge/%E6%B1%87%E7%BC%96-Assembly-orange)
-![Reverse](https://img.shields.io/badge/%E9%80%86%E5%90%91-Reverse-red)
+![Assembly](https://img.shields.io/badge/汇编-Assembly-orange)
+![Reverse](https://img.shields.io/badge/逆向-Reverse-red)
 
 🧠 计划学习:
 &emsp;&emsp;
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Kernel](https://img.shields.io/badge/%E5%86%85%E6%A0%B8-Kernel-blue)
+![Kernel](https://img.shields.io/badge/内核-Kernel-blue)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
@@ -70,14 +71,10 @@ src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
 
 <p align="center">
   <img width="150" src="https://fastly.jsdelivr.net/gh/huajien/picgo/img/202108300310676.png" />
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=huajien&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=huajien&theme=onedark&hide_border=true&locale=zh_Hans&date_format=[Y.]n.j" />
   <img width="150" src="https://fastly.jsdelivr.net/gh/huajien/picgo/img/202108300312623.png" />
 </p>
 
 
 
 <div align="center"><img src="https://fastly.jsdelivr.net/gh/huajien/picgo/img/202110311924844.png" /></div>
-
-<!-- GitHub Activity Graph -->
-
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=huajien&theme=xcode" /></div>
