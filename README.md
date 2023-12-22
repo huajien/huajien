@@ -23,9 +23,9 @@
 src="https://img.shields.io/badge/bilibili-B站-ff69b4"></a>&emsp;
   <!-- 知乎徽标 -->   
   <a href="https://www.zhihu.com/people/hua-ji-93-94"><img src="https://img.shields.io/badge/zhihu-知乎-blue"></a>&emsp;
-<!-- 访客数统计徽标 -->
+<!-- 访客数统计徽标 
   <img src="https://visitor-badge.glitch.me/badge?page_id=huajien" /></div>
-
+-->
 
 
 #  🙋 Hello
